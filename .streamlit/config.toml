@@ -1,0 +1,7 @@
+[theme]
+base="dark"
+primaryColor="#2ea043"  # GitHub-style green
+backgroundColor="#0d1117"  # GitHub dark mode background
+secondaryBackgroundColor="#161b22"  # GitHub dark mode secondary background
+textColor="#c9d1d9"  # GitHub dark mode text
+font="sans serif" 
